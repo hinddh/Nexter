@@ -1,0 +1,14 @@
+{
+  "name": "nexter",
+  "version": "1.0.0",
+  "description": "creat in css grid",
+  "main": "index.js",
+  "scripts": {
+    "watch": "node-sass sass/main.scss css/master.css -w"
+  },
+  "author": "Hind",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
